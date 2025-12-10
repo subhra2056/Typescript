@@ -12,3 +12,6 @@ coverage/
 .parcel-cache/
 .DS_Store
 Thumbs.db
+package.json
+package-lock.json
+tsconfig.json
